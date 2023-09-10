@@ -8,7 +8,7 @@ This is the code for the Sidcup Family Golf website. The website is built using 
 To get started, clone the repository and install the dependencies.
 
 ```
-git clone https://github.com/sidcupfamilygolf/website.git
+git clone https://github.com/Sarvesh-17/My-first-project.git
 cd website
 npm install
 ```
