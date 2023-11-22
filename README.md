@@ -21,7 +21,7 @@ To run the website, start the development server.
 npm start
 ```
 
-The website will be available at http://localhost:3000.
+The website will be available at https://sidcupfamilygolfwebsite.netlify.app/.
 
 ## Code Structure
 
